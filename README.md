@@ -1,4 +1,4 @@
-Sou Desenvolvedor Web Frontend que adora codificar, e aprender coisas novas. Você pode me encontrar criando projetos responsivos e bonitos aqui no Github 🤖. Estou constantemente buscando melhorar minhas habilidades e conhecimentos neste campo. Aprendo rápido e trabalho bem em equipe. Estou ansioso para assumir novos desafios e contribuir para projetos que tenham um impacto significativo. Estou procurando uma oportunidade para me juntar a uma empresa onde eu possa crescer e aprender como desenvolvedor front-end e onde eu possa colocar minhas habilidades em uso em projetos do mundo real.
+Sou Desenvolvedor Web Frontend que adora codificar, e aprender coisas novas. Você pode me encontrar criando projetos responsivos e bonitos aqui no Github 🤖. Estou constantemente buscando melhorar minhas habilidades e conhecimentos neste campo. Aprendo rápido e trabalho bem em equipe. Estou ansioso para assumir novos desafios e contribuir para projetos que tenham um impacto significativo.
 
 <!---
 ALEXSANDERSSILVA/ALEXSANDERSSILVA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
