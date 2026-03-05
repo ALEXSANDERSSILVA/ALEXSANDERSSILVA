@@ -1,1 +1,1 @@
-Sou Desenvolvedor de Software que adora codificar. Estou constantemente buscando melhorar minhas habilidades e conhecimentos neste campo. Aprendo rápido e trabalho bem em equipe. Estou ansioso para assumir novos desafios e contribuir para projetos que tenham um impacto significativo.
+Desenvolvedor de software.
